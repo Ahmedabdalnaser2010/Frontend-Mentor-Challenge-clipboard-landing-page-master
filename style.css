@@ -77,7 +77,7 @@ h3 {
 }
 
 .head .image {
-    background-image: url(../clipboard-landing-page-master/images/bg-header-mobile.png);
+    background-image: url(./images/bg-header-mobile.png);
     width: 100%;
 }
 
@@ -238,7 +238,7 @@ h3 {
     }
 
     .head .image {
-        background-image: url(../clipboard-landing-page-master/images/bg-header-desktop.png);
+        background-image: url(./images/bg-header-desktop.png);
         width: 100vw;
     }
 
